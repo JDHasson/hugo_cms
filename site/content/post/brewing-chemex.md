@@ -1,6 +1,6 @@
 ---
 title: A Blog so Dumb Jake can set it up!
-date: 2021-09-20T20:00:42.109Z
+date: 2021-09-20T20:22:01.524Z
 description: Setting up my first blog publication was so simple.  I am typically
   a moron...  So the fact that I was able to get this up and running without
   reading more than 300 words is laughable.
